@@ -25,7 +25,7 @@
 <br />
 
 ### 🪴 About Me
-* 🔭 **Currently working on:** Full Stack Web Development (MERN & PHP)
+* 🔭 **Currently working on:** Full Stack Web Development
 * 🌱 **Currently learning:** Advanced Java, Spring Boot, MERN Stack, PHP
 * 🎓 **Education:** Pursuing B.Tech in IT at DYPCOE Akurdi, Pune | Computer Engineering Diploma
 * ⚡ **Current Focus:** Building scalable real-time systems and cloud-integrated applications
