@@ -26,7 +26,7 @@
 
 ### 🪴 About Me
 * 🔭 **Currently working on:** Full Stack Web Development (MERN & PHP)
-* 🌱 **Currently learning:** Advanced React, System Design, and Cloud Architectures
+* 🌱 **Currently learning:** Advanced Java, Spring Boot, MERN Stack, PHP
 * 🎓 **Education:** Pursuing B.Tech in IT at DYPCOE Akurdi, Pune | Computer Engineering Diploma
 * ⚡ **Current Focus:** Building scalable real-time systems and cloud-integrated applications
 * 🎯 **Goals:** Writing clean, efficient code and solving complex problems on LeetCode.
@@ -41,20 +41,20 @@
 ---
 
 ### 🚀 Featured Projects
-| Project | Description | Tech Stack | Link |
+| 📁 Project | 📝 Description | 🛠 Tech Stack | 🔗 Link |
 | :--- | :--- | :--- | :--- |
-| **PayNidhi** | Scalable Fintech Application | `React` `Tailwind` | [🔗 Live Demo](https://pay-nidhi.vercel.app/) |
-| **LetsChat** | Real-time Communication Platform | `MERN` `WebSockets` | [🔗 Live Demo](https://letschat-1-r5so.onrender.com/) |
-| **Portfolio** | Responsive Developer Portfolio | `React` `CSS3` | [🔗 Live Demo](https://prathamesh72.netlify.app/) |
+| **[PayNidhi](https://pay-nidhi.vercel.app/)** | Scalable Fintech Application | <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> | [🌐 Live Demo](https://pay-nidhi.vercel.app/) |
+| **[LetsChat](https://letschat-1-r5so.onrender.com/)** | Real-time Communication Platform | <img src="https://img.shields.io/badge/-MERN_Stack-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" /> | [🌐 Live Demo](https://letschat-1-r5so.onrender.com/) |
+| **[Portfolio](https://prathamesh72.netlify.app/)** | Responsive Developer Portfolio | <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | [🌐 Live Demo](https://prathamesh72.netlify.app/) |
 
 ---
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh72&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=888888&icon_color=8A2BE2&background=00000000" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh72&theme=dracula&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 <br />
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathamesh72&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=888888&icon_color=8A2BE2&bg_color=00000000" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh72&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=888888&icon_color=8A2BE2&bg_color=00000000" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathamesh72&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh72&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
