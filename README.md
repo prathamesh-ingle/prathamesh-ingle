@@ -27,7 +27,7 @@
 ### 🪴 About Me
 * 🔭 **Currently working on:** Full Stack Web Development
 * 🌱 **Currently learning:** Advanced Java, Spring Boot, MERN Stack, PHP
-* 🎓 **Education:** Pursuing B.Tech in IT at DYPCOE Akurdi, Pune | Computer Engineering Diploma
+* 🎓 **Education:** Pursuing B.Tech in IT at DYPCOE Akurdi, Pune | Computer Engineering Diploma Holder
 * ⚡ **Current Focus:** Building scalable real-time systems and cloud-integrated applications
 * 🎯 **Goals:** Writing clean, efficient code and solving complex problems on LeetCode.
 
