@@ -45,7 +45,7 @@
 | :--- | :--- | :--- | :--- |
 | **[PayNidhi](https://pay-nidhi.vercel.app/)** | Scalable Fintech Application | <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-MERN_Stack-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> | [🌐 Live Demo](https://pay-nidhi.vercel.app/) |
 | **[LetsChat](https://letschat-1-r5so.onrender.com/)** | Real-time Communication Platform | <img src="https://img.shields.io/badge/-MERN_Stack-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" /> | [🌐 Live Demo](https://letschat-1-r5so.onrender.com/) |
-| **[Portfolio](https://prathamesh72.netlify.app/)** | Responsive Developer Portfolio | <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | [🌐 Live Demo](https://prathamesh72.netlify.app/) |
+| **[Portfolio](https://prathamesh72.netlify.app/)** | Responsive Developer Portfolio | <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | [🌐 Live Demo](https://prathamesh72.vercel.app/) |
 
 ---
 
