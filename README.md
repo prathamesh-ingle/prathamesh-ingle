@@ -14,7 +14,7 @@
   <a href="mailto:prathameshingle72@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://prathamesh72.netlify.app/">
+  <a href="https://prathamesh72.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://leetcode.com/u/Prathameshingle72/">
