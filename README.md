@@ -3,6 +3,7 @@
   <p><em>Full Stack Developer & Aspiring Software Engineer</em></p>
   
   <img src="https://komarev.com/ghpvc/?username=prathamesh-ingle&label=Profile%20views&color=8A2BE2&style=flat-square" alt="prathamesh-ingle" />
+  <img src="https://komarev.com/ghpvc/?username=prathamesh-ingle&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
 </div>
 
 <br />
